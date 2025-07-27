@@ -1,2 +1,2 @@
 # odin-recipes
-In this project I will create a site with knowledge of HTML basics
+1.In this project I will create a site with knowledge of HTML basics
